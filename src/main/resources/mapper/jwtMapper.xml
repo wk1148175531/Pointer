@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  <mapper namespace="com.project.mapper.JwtMapper">
+     <insert id="insertToken">
+         replace into token values(#{username},#{token},#{issue_time},#{expires_time})
+     </insert>
+     <select id="findToken" resultType="java.lang.Integer">
+         select count(*) from token where token=#{token}
+     </select>
+     <delete id="delExpiredTokens">
+         delete from token where datediff(expires_time,issue_time) &lt; 0
+     </delete>
+ </mapper>
