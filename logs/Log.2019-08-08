@@ -1,0 +1,141 @@
+2019-08-08 16:31:56  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-08-08 16:31:56  [INFO] [PointerApplication:50] Starting PointerApplication on DESKTOP-C4FCCV7 with PID 15008 (D:\Pointer\target\classes started by s in D:\Pointer) 
+2019-08-08 16:31:56  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-08-08 16:31:56  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-08-08 16:31:56  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-08-08 16:31:58  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-08-08 16:31:59  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 2111 ms 
+2019-08-08 16:31:59  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-08-08 16:31:59  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-08-08 16:31:59  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-08-08 16:31:59  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-08-08 16:31:59  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-08-08 16:31:59  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-08-08 16:31:59  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-08-08 16:31:59  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@63efd9c6 
+2019-08-08 16:31:59  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-08-08 16:32:00  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-08-08 16:32:00  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-08-08 16:32:00  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-08-08 16:32:00  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-08-08 16:32:00  [INFO] [PointerApplication:59] Started PointerApplication in 3.728 seconds (JVM running for 4.23) 
+2019-08-08 16:32:15  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-08-08 16:32:15  [INFO] [QuartzScheduler:547] Scheduler quartzScheduler_$_NON_CLUSTERED started. 
+2019-08-08 16:32:15  [INFO] [TestJob:19] job start,time:2019-08-08 16:32:15 
+2019-08-08 16:32:20  [INFO] [TestJob:19] job start,time:2019-08-08 16:32:20 
+2019-08-08 16:32:30  [INFO] [TestJob:19] job start,time:2019-08-08 16:32:30 
+2019-08-08 16:32:40  [INFO] [TestJob:19] job start,time:2019-08-08 16:32:40 
+2019-08-08 16:32:50  [INFO] [TestJob:19] job start,time:2019-08-08 16:32:50 
+2019-08-08 16:33:00  [INFO] [TestJob:19] job start,time:2019-08-08 16:33:00 
+2019-08-08 16:33:10  [INFO] [TestJob:19] job start,time:2019-08-08 16:33:10 
+2019-08-08 16:33:20  [INFO] [TestJob:19] job start,time:2019-08-08 16:33:20 
+2019-08-08 16:33:30  [INFO] [TestJob:19] job start,time:2019-08-08 16:33:30 
+2019-08-08 16:33:40  [INFO] [TestJob:19] job start,time:2019-08-08 16:33:40 
+2019-08-08 16:33:50  [INFO] [TestJob:19] job start,time:2019-08-08 16:33:50 
+2019-08-08 16:34:04  [INFO] [SpringBootTestContextBootstrapper:308] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.project.PointerApplicationTests], using SpringBootContextLoader 
+2019-08-08 16:34:04  [INFO] [AbstractContextLoader:264] Could not detect default resource locations for test class [com.project.PointerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}. 
+2019-08-08 16:34:04  [INFO] [AnnotationConfigContextLoaderUtils:83] Could not detect default configuration classes for test class [com.project.PointerApplicationTests]: PointerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration. 
+2019-08-08 16:34:04  [INFO] [SpringBootTestContextBootstrapper:247] Found @SpringBootConfiguration com.project.PointerApplication for test class com.project.PointerApplicationTests 
+2019-08-08 16:34:04  [INFO] [SpringBootTestContextBootstrapper:248] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+2019-08-08 16:34:04  [INFO] [SpringBootTestContextBootstrapper:177] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6f96c77, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@be64738, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3ba9ad43, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@49d904ec, org.springframework.test.context.support.DirtiesContextTestExecutionListener@48e4374, org.springframework.test.context.transaction.TransactionalTestExecutionListener@3d680b5a, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@4b5d6a01, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@4a22f9e2, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3c419631, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@418e7838, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@61230f6a, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3c130745] 
+2019-08-08 16:34:04  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-08-08 16:34:04  [INFO] [PointerApplicationTests:50] Starting PointerApplicationTests on DESKTOP-C4FCCV7 with PID 8528 (started by s in D:\Pointer) 
+2019-08-08 16:34:04  [INFO] [PointerApplicationTests:675] No active profile set, falling back to default profiles: default 
+2019-08-08 16:34:06  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-08-08 16:34:06  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-08-08 16:34:06  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-08-08 16:34:06  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-08-08 16:34:06  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-08-08 16:34:06  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-08-08 16:34:06  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-08-08 16:34:06  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5eb97ced 
+2019-08-08 16:34:06  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-08-08 16:34:07  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-08-08 16:34:07  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-08-08 16:34:07  [INFO] [PointerApplicationTests:59] Started PointerApplicationTests in 3.014 seconds (JVM running for 3.975) 
+2019-08-08 16:34:07  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-08-08 16:34:07  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-08-08 16:34:07  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-08-08 16:34:07  [INFO] [QuartzScheduler:666] Scheduler quartzScheduler_$_NON_CLUSTERED shutting down. 
+2019-08-08 16:34:07  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-08-08 16:34:07  [INFO] [QuartzScheduler:740] Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete. 
+2019-08-08 16:34:31  [INFO] [SpringBootTestContextBootstrapper:308] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.project.PointerApplicationTests], using SpringBootContextLoader 
+2019-08-08 16:34:31  [INFO] [AbstractContextLoader:264] Could not detect default resource locations for test class [com.project.PointerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}. 
+2019-08-08 16:34:31  [INFO] [AnnotationConfigContextLoaderUtils:83] Could not detect default configuration classes for test class [com.project.PointerApplicationTests]: PointerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration. 
+2019-08-08 16:34:31  [INFO] [SpringBootTestContextBootstrapper:247] Found @SpringBootConfiguration com.project.PointerApplication for test class com.project.PointerApplicationTests 
+2019-08-08 16:34:31  [INFO] [SpringBootTestContextBootstrapper:248] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+2019-08-08 16:34:31  [INFO] [SpringBootTestContextBootstrapper:177] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6f96c77, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@be64738, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3ba9ad43, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@49d904ec, org.springframework.test.context.support.DirtiesContextTestExecutionListener@48e4374, org.springframework.test.context.transaction.TransactionalTestExecutionListener@3d680b5a, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@4b5d6a01, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@4a22f9e2, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@3c419631, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@418e7838, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@61230f6a, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3c130745] 
+2019-08-08 16:34:31  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-08-08 16:34:31  [INFO] [PointerApplicationTests:50] Starting PointerApplicationTests on DESKTOP-C4FCCV7 with PID 7536 (started by s in D:\Pointer) 
+2019-08-08 16:34:31  [INFO] [PointerApplicationTests:675] No active profile set, falling back to default profiles: default 
+2019-08-08 16:34:33  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-08-08 16:34:33  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-08-08 16:34:33  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-08-08 16:34:33  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-08-08 16:34:33  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-08-08 16:34:33  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-08-08 16:34:33  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-08-08 16:34:33  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@f2e4acf 
+2019-08-08 16:34:34  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-08-08 16:34:34  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-08-08 16:34:34  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-08-08 16:34:34  [INFO] [PointerApplicationTests:59] Started PointerApplicationTests in 2.981 seconds (JVM running for 3.723) 
+2019-08-08 16:34:34  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-08-08 16:34:34  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-08-08 16:34:34  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-08-08 16:34:34  [INFO] [QuartzScheduler:666] Scheduler quartzScheduler_$_NON_CLUSTERED shutting down. 
+2019-08-08 16:34:34  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-08-08 16:34:34  [INFO] [QuartzScheduler:740] Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete. 
+2019-08-08 17:07:13  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-08-08 17:07:13  [INFO] [PointerApplication:50] Starting PointerApplication on DESKTOP-C4FCCV7 with PID 15708 (D:\Pointer\target\classes started by s in D:\Pointer) 
+2019-08-08 17:07:13  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-08-08 17:07:13  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-08-08 17:07:13  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-08-08 17:07:15  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-08-08 17:07:15  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1848 ms 
+2019-08-08 17:07:15  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-08-08 17:07:15  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-08-08 17:07:15  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-08-08 17:07:15  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-08-08 17:07:15  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-08-08 17:07:15  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-08-08 17:07:15  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-08-08 17:07:15  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@578b5ec5 
+2019-08-08 17:07:16  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-08-08 17:07:16  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-08-08 17:07:16  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-08-08 17:07:16  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-08-08 17:07:16  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-08-08 17:07:16  [INFO] [PointerApplication:59] Started PointerApplication in 3.313 seconds (JVM running for 3.782) 
+2019-08-08 17:07:31  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-08-08 17:07:31  [INFO] [QuartzScheduler:547] Scheduler quartzScheduler_$_NON_CLUSTERED started. 
+2019-08-08 17:07:31  [INFO] [TestJob:19] job start,time:2019-08-08 17:07:31 
+2019-08-08 17:07:40  [INFO] [TestJob:19] job start,time:2019-08-08 17:07:40 

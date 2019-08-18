@@ -17,4 +17,14 @@ public class MainController {
 	{
 		return "main";
 	}
+	@RequestMapping("/manager")
+	public String managerPage()
+	{
+		return "manager";
+	}
+	@RequestMapping("/login")
+	public String login()
+	{
+		return "login";
+	}
 }

@@ -1,7 +1,13 @@
 package com.project.beans;
 
-public class LoginMsg {
+import java.io.Serializable;
 
+public class LoginMsg implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private String username;
 	private String password;
 	public String getUsername() {

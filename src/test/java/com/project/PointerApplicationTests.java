@@ -11,6 +11,7 @@ public class PointerApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("hello world!");
 	}
 
 }

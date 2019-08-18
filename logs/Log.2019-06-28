@@ -1,0 +1,1255 @@
+2019-06-28 11:14:51  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 11:24:25  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 11:24:25  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 4476 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:24:25  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:24:25  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:24:25  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:24:29  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:24:30  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4666 ms 
+2019-06-28 11:24:33  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:24:33  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:24:33  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:24:33  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:24:33  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:24:33  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:24:33  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:24:33  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@222cf1f3 
+2019-06-28 11:24:34  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:24:34  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:24:34  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:24:34  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:24:35  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:24:35  [INFO] [PointerApplication:59] Started PointerApplication in 10.276 seconds (JVM running for 11.796) 
+2019-06-28 11:24:49  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 11:24:49  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 11:26:24  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:26:24  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 11:26:24  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:26:24  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 11:26:24  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 11:26:24  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:26:24  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 11:26:24  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:26:25  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:26:25  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 4476 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:26:25  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:26:26  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:26:26  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1348 ms 
+2019-06-28 11:26:28  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:26:28  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:26:28  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:26:28  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:26:28  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:26:28  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:26:28  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:26:28  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@221e43e7 
+2019-06-28 11:26:28  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:26:28  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:26:28  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:26:28  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:26:28  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:26:28  [INFO] [PointerApplication:59] Started PointerApplication in 4.042 seconds (JVM running for 125.746) 
+2019-06-28 11:26:29  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 11:26:43  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 11:26:43  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 11:28:45  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:28:45  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 11:28:45  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:28:45  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 11:28:45  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 11:28:45  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:28:45  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 11:28:46  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:28:46  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:28:46  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 4476 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:28:46  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:28:47  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:28:47  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1177 ms 
+2019-06-28 11:28:49  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:28:49  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:28:49  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:28:49  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:28:49  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:28:49  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:28:49  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:28:49  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@278be8c4 
+2019-06-28 11:28:49  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:28:49  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:28:49  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:28:49  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:28:49  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:28:49  [INFO] [PointerApplication:59] Started PointerApplication in 3.761 seconds (JVM running for 266.624) 
+2019-06-28 11:28:49  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 11:29:04  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 11:29:04  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 11:29:04  [INFO] [TestJob:19] job start,time:2019-06-28 11:29:04 
+2019-06-28 11:29:10  [INFO] [TestJob:19] job start,time:2019-06-28 11:29:10 
+2019-06-28 11:29:20  [INFO] [TestJob:19] job start,time:2019-06-28 11:29:20 
+2019-06-28 11:29:30  [INFO] [TestJob:19] job start,time:2019-06-28 11:29:30 
+2019-06-28 11:29:40  [INFO] [TestJob:19] job start,time:2019-06-28 11:29:40 
+2019-06-28 11:29:50  [INFO] [TestJob:19] job start,time:2019-06-28 11:29:50 
+2019-06-28 11:30:00  [INFO] [TestJob:19] job start,time:2019-06-28 11:30:00 
+2019-06-28 11:30:02  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 11:30:02  [INFO] [DispatcherServlet:546] Completed initialization in 31 ms 
+2019-06-28 11:30:10  [INFO] [TestJob:19] job start,time:2019-06-28 11:30:10 
+2019-06-28 11:30:20  [INFO] [TestJob:19] job start,time:2019-06-28 11:30:20 
+2019-06-28 11:30:30  [INFO] [TestJob:19] job start,time:2019-06-28 11:30:30 
+2019-06-28 11:30:40  [INFO] [TestJob:19] job start,time:2019-06-28 11:30:40 
+2019-06-28 11:30:50  [INFO] [TestJob:19] job start,time:2019-06-28 11:30:50 
+2019-06-28 11:31:00  [INFO] [TestJob:19] job start,time:2019-06-28 11:31:00 
+2019-06-28 11:31:10  [INFO] [TestJob:19] job start,time:2019-06-28 11:31:10 
+2019-06-28 11:31:20  [INFO] [TestJob:19] job start,time:2019-06-28 11:31:20 
+2019-06-28 11:31:30  [INFO] [TestJob:19] job start,time:2019-06-28 11:31:30 
+2019-06-28 11:31:39  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:31:39  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 11:31:39  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:31:39  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 11:31:39  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 11:31:39  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:31:39  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 11:31:40  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:31:40  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:31:40  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 4476 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:31:40  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:31:41  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:31:41  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1110 ms 
+2019-06-28 11:31:43  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:31:43  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:31:43  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:31:43  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:31:43  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:31:43  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:31:43  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:31:43  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@21bf4577 
+2019-06-28 11:31:43  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:31:43  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:31:43  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:31:43  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:31:43  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:31:43  [INFO] [PointerApplication:59] Started PointerApplication in 3.644 seconds (JVM running for 440.721) 
+2019-06-28 11:31:43  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 11:32:04  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 11:32:05  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7924 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:32:05  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:32:05  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:32:05  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:32:09  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:32:10  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4636 ms 
+2019-06-28 11:32:13  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:32:13  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:32:13  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:32:13  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:32:13  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:32:13  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:32:13  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:32:13  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3e1bb7ce 
+2019-06-28 11:32:13  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:32:14  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:32:14  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:32:14  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:32:14  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:32:14  [INFO] [PointerApplication:59] Started PointerApplication in 10.285 seconds (JVM running for 11.683) 
+2019-06-28 11:32:29  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 11:32:29  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 11:32:29  [INFO] [TestJob:19] job start,time:2019-06-28 11:32:29 
+2019-06-28 11:32:30  [INFO] [TestJob:19] job start,time:2019-06-28 11:32:30 
+2019-06-28 11:32:39  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 11:32:39  [INFO] [DispatcherServlet:546] Completed initialization in 15 ms 
+2019-06-28 11:32:40  [INFO] [TestJob:19] job start,time:2019-06-28 11:32:40 
+2019-06-28 11:32:50  [INFO] [TestJob:19] job start,time:2019-06-28 11:32:50 
+2019-06-28 11:33:00  [INFO] [TestJob:19] job start,time:2019-06-28 11:33:00 
+2019-06-28 11:33:10  [INFO] [TestJob:19] job start,time:2019-06-28 11:33:10 
+2019-06-28 11:33:20  [INFO] [TestJob:19] job start,time:2019-06-28 11:33:20 
+2019-06-28 11:33:30  [INFO] [TestJob:19] job start,time:2019-06-28 11:33:30 
+2019-06-28 11:33:37  [WARN] [DefaultHandlerExceptionResolver:194] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported] 
+2019-06-28 11:33:40  [INFO] [TestJob:19] job start,time:2019-06-28 11:33:40 
+2019-06-28 11:33:50  [INFO] [TestJob:19] job start,time:2019-06-28 11:33:50 
+2019-06-28 11:34:00  [INFO] [TestJob:19] job start,time:2019-06-28 11:34:00 
+2019-06-28 11:34:10  [INFO] [TestJob:19] job start,time:2019-06-28 11:34:10 
+2019-06-28 11:34:20  [INFO] [TestJob:19] job start,time:2019-06-28 11:34:20 
+2019-06-28 11:34:23  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:34:23  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 11:34:23  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:34:23  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 11:34:23  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 11:34:23  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 11:34:23  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 11:34:24  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:34:24  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:34:24  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7924 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:34:24  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:34:25  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:34:26  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1702 ms 
+2019-06-28 11:34:28  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:34:28  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:34:28  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:34:28  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:34:28  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:34:28  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:34:28  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:34:28  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@64609fe7 
+2019-06-28 11:34:28  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:34:28  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:34:28  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:34:28  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:34:28  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:34:28  [INFO] [PointerApplication:59] Started PointerApplication in 4.381 seconds (JVM running for 145.707) 
+2019-06-28 11:34:28  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 11:34:43  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 11:34:43  [INFO] [DispatcherServlet:546] Completed initialization in 14 ms 
+2019-06-28 11:34:43  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 11:34:43  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 11:35:23  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 11:35:23  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 3220 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 11:35:23  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 11:35:23  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 11:35:23  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 11:35:27  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 11:35:28  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4504 ms 
+2019-06-28 11:35:31  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 11:35:31  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 11:35:31  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 11:35:31  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 11:35:31  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 11:35:31  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 11:35:31  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 11:35:31  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@239e3c32 
+2019-06-28 11:35:32  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 11:35:32  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 11:35:32  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 11:35:32  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 11:35:33  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 11:35:33  [INFO] [PointerApplication:59] Started PointerApplication in 10.149 seconds (JVM running for 11.585) 
+2019-06-28 11:35:47  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 11:35:47  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 11:36:14  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 11:36:14  [INFO] [DispatcherServlet:546] Completed initialization in 17 ms 
+2019-06-28 12:58:22  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 12:58:22  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 12:58:22  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 12:58:22  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 12:58:22  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 12:58:22  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 12:58:22  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 12:58:22  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 12:58:22  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 12:58:22  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 3220 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 12:58:22  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 12:58:23  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 12:58:24  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1347 ms 
+2019-06-28 12:58:24  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 12:58:24  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 12:58:24  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 12:58:24  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 12:58:24  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 12:58:24  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 12:58:24  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 12:58:24  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@746a96b4 
+2019-06-28 12:58:24  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 12:58:24  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 12:58:25  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 12:58:25  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 12:58:25  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 12:58:25  [INFO] [PointerApplication:59] Started PointerApplication in 2.226 seconds (JVM running for 4983.463) 
+2019-06-28 12:58:25  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 12:58:56  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 12:58:56  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8296 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 12:58:56  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 12:58:57  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 12:58:57  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 12:59:00  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 12:59:01  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4865 ms 
+2019-06-28 12:59:03  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 12:59:03  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 12:59:03  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 12:59:03  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 12:59:03  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 12:59:03  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 12:59:03  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 12:59:03  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@45f930ab 
+2019-06-28 12:59:03  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 12:59:04  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 12:59:04  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 12:59:04  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 12:59:04  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 12:59:04  [INFO] [PointerApplication:59] Started PointerApplication in 8.621 seconds (JVM running for 10.322) 
+2019-06-28 12:59:19  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 12:59:19  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 12:59:37  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 12:59:37  [INFO] [DispatcherServlet:546] Completed initialization in 17 ms 
+2019-06-28 13:00:15  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:00:15  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:00:15  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:00:15  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:00:15  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:00:15  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:00:15  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:00:16  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:00:16  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:00:16  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8296 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:00:16  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:00:17  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:00:17  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1373 ms 
+2019-06-28 13:00:17  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:00:17  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:00:17  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:00:17  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:00:17  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:00:17  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:00:17  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:00:17  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@7049032b 
+2019-06-28 13:00:17  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:00:18  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:00:18  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:00:18  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:00:18  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:00:18  [INFO] [PointerApplication:59] Started PointerApplication in 2.037 seconds (JVM running for 83.906) 
+2019-06-28 13:00:18  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:00:25  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:00:25  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:00:25  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:00:25  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:00:25  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:00:25  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:00:26  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:00:26  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:00:26  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8296 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:00:26  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:00:27  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:00:27  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1156 ms 
+2019-06-28 13:00:27  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:00:27  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:00:27  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:00:27  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:00:27  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:00:27  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:00:27  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:00:27  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2e567a05 
+2019-06-28 13:00:27  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:00:28  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:00:28  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:00:28  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:00:28  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:00:28  [INFO] [PointerApplication:59] Started PointerApplication in 1.735 seconds (JVM running for 93.892) 
+2019-06-28 13:00:28  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:00:33  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:00:39  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:00:39  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:00:39  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:00:39  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:00:39  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:00:39  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:00:40  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:00:40  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:00:40  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8296 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:00:40  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:00:41  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:00:41  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1180 ms 
+2019-06-28 13:00:41  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:00:41  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:00:41  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:00:41  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:00:41  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:00:41  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:00:41  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:00:41  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@361e14d3 
+2019-06-28 13:00:42  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:00:42  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:00:42  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:00:42  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:00:42  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:00:42  [INFO] [PointerApplication:59] Started PointerApplication in 1.742 seconds (JVM running for 108.048) 
+2019-06-28 13:00:42  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:00:43  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:00:52  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 13:00:53  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8788 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:00:53  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:00:53  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:00:53  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:00:57  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:00:58  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4755 ms 
+2019-06-28 13:00:59  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:00:59  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:00:59  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:00:59  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:00:59  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:00:59  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:00:59  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:00:59  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3ce1f77d 
+2019-06-28 13:01:00  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:01:00  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:01:00  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:01:00  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:01:00  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:01:00  [INFO] [PointerApplication:59] Started PointerApplication in 8.531 seconds (JVM running for 9.901) 
+2019-06-28 13:01:15  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:01:15  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:03:25  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:03:25  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:03:25  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:03:25  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:03:25  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:03:25  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:03:25  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:03:26  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:03:26  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:03:26  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8788 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:03:26  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:03:27  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:03:27  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1271 ms 
+2019-06-28 13:03:27  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:03:27  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:03:27  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:03:27  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:03:27  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:03:27  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:03:27  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:03:27  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@71d66f73 
+2019-06-28 13:03:27  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:03:27  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:03:28  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:03:28  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:03:28  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:03:28  [INFO] [PointerApplication:59] Started PointerApplication in 1.959 seconds (JVM running for 157.046) 
+2019-06-28 13:03:28  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:03:31  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:03:31  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:03:31  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:03:31  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:03:31  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:03:31  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:03:32  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:03:32  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:03:32  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8788 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:03:32  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:03:33  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:03:33  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1173 ms 
+2019-06-28 13:03:33  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:03:33  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:03:33  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:03:33  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:03:33  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:03:33  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:03:33  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:03:33  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@7c26b067 
+2019-06-28 13:03:33  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:03:33  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:03:33  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:03:33  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:03:33  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:03:33  [INFO] [PointerApplication:59] Started PointerApplication in 1.768 seconds (JVM running for 162.9) 
+2019-06-28 13:03:33  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:03:43  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:03:48  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:03:48  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:08:59  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 13:08:59  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8816 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:08:59  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:08:59  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:08:59  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:09:05  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:09:06  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 6124 ms 
+2019-06-28 13:09:08  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:09:08  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:09:08  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:09:08  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:09:08  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:09:08  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:09:08  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:09:08  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5662c732 
+2019-06-28 13:09:08  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:09:09  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:09:09  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:09:09  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:09:09  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:09:09  [INFO] [PointerApplication:59] Started PointerApplication in 11.039 seconds (JVM running for 12.971) 
+2019-06-28 13:09:24  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:09:24  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:11:48  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 13:11:48  [INFO] [DispatcherServlet:546] Completed initialization in 15 ms 
+2019-06-28 13:12:13  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:12:13  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:12:13  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:12:13  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:12:13  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:12:13  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:12:13  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:12:14  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:12:14  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:12:14  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8816 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:12:14  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:12:15  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:12:15  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1284 ms 
+2019-06-28 13:12:15  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:12:16  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:12:16  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:12:16  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:12:16  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:12:16  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:12:16  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:12:16  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2a0739ee 
+2019-06-28 13:12:16  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:12:16  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:12:16  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:12:16  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:12:16  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:12:16  [INFO] [PointerApplication:59] Started PointerApplication in 2.0 seconds (JVM running for 199.577) 
+2019-06-28 13:12:16  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:12:22  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:12:22  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:12:22  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:12:22  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:12:22  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:12:22  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:12:22  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:12:22  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:12:22  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 8816 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:12:22  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:12:29  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 13:12:30  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7544 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:12:30  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:12:30  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:12:30  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:12:34  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:12:35  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4871 ms 
+2019-06-28 13:12:36  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:12:36  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:12:36  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:12:36  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:12:36  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:12:36  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:12:36  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:12:36  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@35023a20 
+2019-06-28 13:12:37  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:12:37  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:12:37  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:12:37  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:12:37  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:12:37  [INFO] [PointerApplication:59] Started PointerApplication in 8.521 seconds (JVM running for 9.892) 
+2019-06-28 13:12:52  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:12:52  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:13:04  [INFO] [DispatcherServlet:524] Initializing Servlet 'dispatcherServlet' 
+2019-06-28 13:13:04  [INFO] [DispatcherServlet:546] Completed initialization in 19 ms 
+2019-06-28 13:29:28  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:29:28  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:29:29  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:29:29  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:29:29  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:29:29  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:29:29  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:29:29  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:29:29  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:29:29  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7544 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:29:29  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:29:30  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:29:31  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1300 ms 
+2019-06-28 13:29:31  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:29:31  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:29:31  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:29:31  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:29:31  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:29:31  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:29:31  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:29:31  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2366770a 
+2019-06-28 13:29:31  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:29:31  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:29:31  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:29:31  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:29:31  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:29:31  [INFO] [PointerApplication:59] Started PointerApplication in 2.025 seconds (JVM running for 1023.713) 
+2019-06-28 13:29:31  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:29:46  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:29:46  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:37:03  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:37:03  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:37:03  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:37:03  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:37:03  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:37:03  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:37:03  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:37:03  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:37:03  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:37:03  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7544 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:37:03  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:37:04  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:37:04  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1195 ms 
+2019-06-28 13:37:05  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:37:05  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:37:05  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:37:05  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:37:05  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:37:05  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:37:05  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:37:05  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6b23e3ca 
+2019-06-28 13:37:05  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:37:05  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:37:05  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:37:05  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:37:05  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:37:05  [INFO] [PointerApplication:59] Started PointerApplication in 1.752 seconds (JVM running for 1477.52) 
+2019-06-28 13:37:05  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:37:20  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:37:20  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:40:23  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:40:23  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:40:23  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:40:23  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:40:23  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:40:23  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:40:23  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:40:23  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:40:23  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:40:23  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7544 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:40:23  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:40:24  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:40:24  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1058 ms 
+2019-06-28 13:40:25  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:40:25  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:40:25  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:40:25  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:40:25  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:40:25  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:40:25  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:40:25  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@666334fa 
+2019-06-28 13:40:25  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:40:25  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:40:25  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:40:25  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:40:25  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:40:25  [INFO] [PointerApplication:59] Started PointerApplication in 1.604 seconds (JVM running for 1677.37) 
+2019-06-28 13:40:25  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:40:40  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:40:40  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:40:52  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 13:40:52  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 2628 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:40:52  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:40:53  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:40:53  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:40:57  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:40:57  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4863 ms 
+2019-06-28 13:40:59  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:40:59  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:40:59  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:40:59  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:40:59  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:40:59  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:40:59  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:40:59  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@6f40441e 
+2019-06-28 13:41:00  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:41:00  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:41:00  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:41:00  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:41:00  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:41:00  [INFO] [PointerApplication:59] Started PointerApplication in 8.732 seconds (JVM running for 10.089) 
+2019-06-28 13:41:15  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:41:15  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:42:34  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:42:34  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:42:34  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:42:34  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:42:34  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:42:34  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:42:34  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:42:35  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:42:35  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:42:35  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 2628 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:42:35  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:42:36  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:42:36  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1400 ms 
+2019-06-28 13:42:47  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 13:42:48  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 3772 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:42:48  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:42:48  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:42:48  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:42:52  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:42:53  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 5202 ms 
+2019-06-28 13:42:55  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:42:55  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:42:55  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:42:55  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:42:55  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:42:55  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:42:55  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:42:55  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5466be97 
+2019-06-28 13:42:55  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:42:56  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:42:56  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:42:56  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:42:56  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:42:56  [INFO] [PointerApplication:59] Started PointerApplication in 9.154 seconds (JVM running for 10.609) 
+2019-06-28 13:43:11  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:43:11  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 13:44:07  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:44:07  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 13:44:07  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:44:07  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 13:44:07  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 13:44:07  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 13:44:07  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 13:44:08  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 13:44:08  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 13:44:08  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 3772 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 13:44:08  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 13:44:09  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 13:44:09  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1322 ms 
+2019-06-28 13:44:09  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 13:44:09  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 13:44:09  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 13:44:09  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 13:44:09  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 13:44:09  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 13:44:09  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 13:44:09  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@7d1ce17 
+2019-06-28 13:44:09  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 13:44:09  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 13:44:09  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 13:44:09  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 13:44:10  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 13:44:10  [INFO] [PointerApplication:59] Started PointerApplication in 2.006 seconds (JVM running for 84.164) 
+2019-06-28 13:44:10  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 13:44:24  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 13:44:24  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 14:18:51  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 14:18:51  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 14:18:51  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 14:18:51  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 14:18:51  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 14:18:51  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 14:18:51  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 14:18:51  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 14:18:51  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 14:18:51  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 3772 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 14:18:51  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 14:18:52  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 14:18:53  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1304 ms 
+2019-06-28 14:18:53  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 14:18:53  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 14:18:53  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 14:18:53  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 14:18:53  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 14:18:53  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 14:18:53  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 14:18:53  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2e1cfef9 
+2019-06-28 14:18:53  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 14:18:53  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 14:18:53  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 14:18:53  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 14:18:53  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 14:18:53  [INFO] [PointerApplication:59] Started PointerApplication in 2.063 seconds (JVM running for 2167.949) 
+2019-06-28 14:18:53  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 14:19:07  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 14:19:08  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 7856 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 14:19:08  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 14:19:08  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 14:19:08  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 14:19:12  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 14:19:13  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4998 ms 
+2019-06-28 14:19:14  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 14:19:14  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 14:19:14  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 14:19:14  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 14:19:14  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 14:19:14  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 14:19:14  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 14:19:14  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@172069c3 
+2019-06-28 14:19:15  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 14:19:15  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 14:19:15  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 14:19:16  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 14:19:16  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 14:19:16  [INFO] [PointerApplication:59] Started PointerApplication in 8.77 seconds (JVM running for 10.171) 
+2019-06-28 14:19:31  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 14:19:31  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 15:16:34  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 15:16:35  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 5280 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:16:35  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:16:35  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:16:35  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:16:40  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:16:41  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 5480 ms 
+2019-06-28 15:16:42  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:16:42  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:16:42  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:16:42  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 15:16:42  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 15:16:42  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 15:16:42  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 15:16:42  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@60ee1429 
+2019-06-28 15:16:42  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:16:43  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 15:16:43  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 15:16:43  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 15:16:43  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 15:16:43  [INFO] [PointerApplication:59] Started PointerApplication in 9.073 seconds (JVM running for 10.577) 
+2019-06-28 15:16:58  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 15:16:58  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 15:25:04  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 15:25:04  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 6448 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:25:04  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:25:04  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:25:04  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:25:08  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:25:09  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4856 ms 
+2019-06-28 15:25:11  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:25:11  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:25:11  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:25:11  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 15:25:11  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactory' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 15:25:11  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'schedulerFactory' initialized from an externally provided properties instance. 
+2019-06-28 15:25:11  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 15:25:11  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@40d7135a 
+2019-06-28 15:25:11  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:25:11  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 15:25:12  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 15:25:12  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [schedulerFactory] in 15 seconds 
+2019-06-28 15:25:12  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 15:25:12  [INFO] [PointerApplication:59] Started PointerApplication in 8.327 seconds (JVM running for 9.763) 
+2019-06-28 15:25:27  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 15:25:27  [INFO] [QuartzScheduler:547] Scheduler schedulerFactory_$_NON_CLUSTERED started. 
+2019-06-28 15:54:10  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 15:54:10  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 15:54:10  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:54:10  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 15:54:10  [INFO] [QuartzScheduler:666] Scheduler schedulerFactory_$_NON_CLUSTERED shutting down. 
+2019-06-28 15:54:10  [INFO] [QuartzScheduler:585] Scheduler schedulerFactory_$_NON_CLUSTERED paused. 
+2019-06-28 15:54:10  [INFO] [QuartzScheduler:740] Scheduler schedulerFactory_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 15:54:11  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:54:11  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:54:11  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 6448 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:54:11  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:54:13  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:54:13  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 2216 ms 
+2019-06-28 15:54:13  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:54:13  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:54:13  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:54:13  [INFO] [QuartzScheduler:666] Scheduler quartzScheduler_$_NON_CLUSTERED shutting down. 
+2019-06-28 15:54:13  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-06-28 15:54:13  [WARN] [JobStoreTX:748] Database connection shutdown unsuccessful. 
+java.sql.SQLException: There is no DataSource named 'null'
+	at org.quartz.utils.DBConnectionManager.shutdown(DBConnectionManager.java:135)
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.shutdown(JobStoreSupport.java:746)
+	at org.quartz.core.QuartzScheduler.shutdown(QuartzScheduler.java:732)
+	at org.quartz.impl.StdSchedulerFactory.shutdownFromInstantiateException(StdSchedulerFactory.java:1411)
+	at org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1379)
+	at org.quartz.impl.StdSchedulerFactory.getScheduler(StdSchedulerFactory.java:1559)
+	at org.springframework.scheduling.quartz.SchedulerFactoryBean.createScheduler(SchedulerFactoryBean.java:676)
+	at org.springframework.scheduling.quartz.SchedulerFactoryBean.prepareScheduler(SchedulerFactoryBean.java:613)
+	at org.springframework.scheduling.quartz.SchedulerFactoryBean.afterPropertiesSet(SchedulerFactoryBean.java:501)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.project.PointerApplication.main(PointerApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2019-06-28 15:54:13  [INFO] [QuartzScheduler:740] Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 15:54:13  [WARN] [AnnotationConfigServletWebServerApplicationContext:554] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'schedulerFactory' defined in class path resource [com/project/config/QuartzConfig.class]: Invocation of init method failed; nested exception is org.quartz.SchedulerConfigException: DataSource name not set. 
+2019-06-28 15:54:13  [INFO] [ConditionEvaluationReportLoggingListener:142] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2019-06-28 15:54:13  [ERROR] [SpringApplication:858] Application run failed 
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'schedulerFactory' defined in class path resource [com/project/config/QuartzConfig.class]: Invocation of init method failed; nested exception is org.quartz.SchedulerConfigException: DataSource name not set.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1745)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.project.PointerApplication.main(PointerApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.quartz.SchedulerConfigException: DataSource name not set.
+	at org.quartz.impl.jdbcjobstore.JobStoreSupport.initialize(JobStoreSupport.java:643)
+	at org.quartz.impl.jdbcjobstore.JobStoreTX.initialize(JobStoreTX.java:57)
+	at org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1356)
+	at org.quartz.impl.StdSchedulerFactory.getScheduler(StdSchedulerFactory.java:1559)
+	at org.springframework.scheduling.quartz.SchedulerFactoryBean.createScheduler(SchedulerFactoryBean.java:676)
+	at org.springframework.scheduling.quartz.SchedulerFactoryBean.prepareScheduler(SchedulerFactoryBean.java:613)
+	at org.springframework.scheduling.quartz.SchedulerFactoryBean.afterPropertiesSet(SchedulerFactoryBean.java:501)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	... 21 more
+2019-06-28 15:55:10  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:55:10  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:55:10  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 6448 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:55:10  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:55:11  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:55:11  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1355 ms 
+2019-06-28 15:55:12  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:55:12  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:55:12  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:55:12  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 15:55:12  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 15:55:12  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-06-28 15:55:12  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 15:55:12  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@b5eed3e 
+2019-06-28 15:55:12  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:55:12  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 15:55:12  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 15:55:12  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-06-28 15:55:12  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 15:55:12  [INFO] [PointerApplication:59] Started PointerApplication in 1.94 seconds (JVM running for 1809.804) 
+2019-06-28 15:55:12  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 15:55:27  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 15:55:27  [INFO] [QuartzScheduler:547] Scheduler quartzScheduler_$_NON_CLUSTERED started. 
+2019-06-28 15:56:16  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-06-28 15:56:16  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 15:56:16  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:56:16  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 15:56:16  [INFO] [QuartzScheduler:666] Scheduler quartzScheduler_$_NON_CLUSTERED shutting down. 
+2019-06-28 15:56:16  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-06-28 15:56:16  [INFO] [QuartzScheduler:740] Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 15:56:17  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:56:17  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:56:17  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 6448 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:56:17  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:56:18  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:56:18  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1334 ms 
+2019-06-28 15:56:19  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:56:19  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:56:19  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:56:19  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 15:56:19  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 15:56:19  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-06-28 15:56:19  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 15:56:19  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@64f9e513 
+2019-06-28 15:56:19  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:56:19  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 15:56:19  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 15:56:19  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-06-28 15:56:19  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 15:56:19  [INFO] [PointerApplication:59] Started PointerApplication in 1.974 seconds (JVM running for 1876.825) 
+2019-06-28 15:56:19  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 15:56:35  [INFO] [Version:21] HV000001: Hibernate Validator 6.0.13.Final 
+2019-06-28 15:56:36  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 6952 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:56:36  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:56:36  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:56:36  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:56:40  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:56:41  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 4865 ms 
+2019-06-28 15:56:42  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:56:42  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:56:42  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:56:42  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 15:56:42  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 15:56:42  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-06-28 15:56:42  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 15:56:43  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3cb2709f 
+2019-06-28 15:56:43  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:56:44  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 15:56:44  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 15:56:44  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-06-28 15:56:44  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 15:56:44  [INFO] [PointerApplication:59] Started PointerApplication in 9.077 seconds (JVM running for 10.553) 
+2019-06-28 15:56:59  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 15:56:59  [INFO] [QuartzScheduler:547] Scheduler quartzScheduler_$_NON_CLUSTERED started. 
+2019-06-28 15:57:04  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-06-28 15:57:04  [INFO] [ThreadPoolTaskScheduler:208] Shutting down ExecutorService 'taskScheduler' 
+2019-06-28 15:57:04  [INFO] [ThreadPoolTaskExecutor:208] Shutting down ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:57:04  [INFO] [SchedulerFactoryBean:844] Shutting down Quartz Scheduler 
+2019-06-28 15:57:04  [INFO] [QuartzScheduler:666] Scheduler quartzScheduler_$_NON_CLUSTERED shutting down. 
+2019-06-28 15:57:04  [INFO] [QuartzScheduler:585] Scheduler quartzScheduler_$_NON_CLUSTERED paused. 
+2019-06-28 15:57:04  [INFO] [QuartzScheduler:740] Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete. 
+2019-06-28 15:57:04  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-06-28 15:57:04  [INFO] [DevToolsPropertyDefaultsPostProcessor:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-06-28 15:57:04  [INFO] [PointerApplication:50] Starting PointerApplication on s-PC with PID 6952 (D:\Users\s\eclipse-workspace\Pointer\target\classes started by s in D:\Users\s\eclipse-workspace\Pointer) 
+2019-06-28 15:57:04  [INFO] [PointerApplication:675] No active profile set, falling back to default profiles: default 
+2019-06-28 15:57:05  [INFO] [TomcatWebServer:90] Tomcat initialized with port(s): 8080 (http) 
+2019-06-28 15:57:06  [INFO] [ContextLoader:296] Root WebApplicationContext: initialization completed in 1230 ms 
+2019-06-28 15:57:06  [INFO] [StdSchedulerFactory:1208] Using default implementation for ThreadExecutor 
+2019-06-28 15:57:06  [INFO] [SchedulerSignalerImpl:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl 
+2019-06-28 15:57:06  [INFO] [QuartzScheduler:229] Quartz Scheduler v.2.3.0 created. 
+2019-06-28 15:57:06  [INFO] [RAMJobStore:155] RAMJobStore initialized. 
+2019-06-28 15:57:06  [INFO] [QuartzScheduler:294] Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2019-06-28 15:57:06  [INFO] [StdSchedulerFactory:1362] Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance. 
+2019-06-28 15:57:06  [INFO] [StdSchedulerFactory:1366] Quartz scheduler version: 2.3.0 
+2019-06-28 15:57:06  [INFO] [QuartzScheduler:2287] JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@17399dcf 
+2019-06-28 15:57:06  [INFO] [ThreadPoolTaskExecutor:171] Initializing ExecutorService 'applicationTaskExecutor' 
+2019-06-28 15:57:06  [INFO] [ThreadPoolTaskScheduler:171] Initializing ExecutorService 'taskScheduler' 
+2019-06-28 15:57:06  [INFO] [OptionalLiveReloadServer:57] LiveReload server is running on port 35729 
+2019-06-28 15:57:06  [INFO] [SchedulerFactoryBean:731] Will start Quartz Scheduler [quartzScheduler] in 15 seconds 
+2019-06-28 15:57:06  [INFO] [TomcatWebServer:204] Tomcat started on port(s): 8080 (http) with context path '/Pointer' 
+2019-06-28 15:57:06  [INFO] [PointerApplication:59] Started PointerApplication in 1.915 seconds (JVM running for 32.638) 
+2019-06-28 15:57:06  [INFO] [ConditionEvaluationDeltaLoggingListener:56] Condition evaluation unchanged 
+2019-06-28 15:57:21  [INFO] [SchedulerFactoryBean:747] Starting Quartz Scheduler now, after delay of 15 seconds 
+2019-06-28 15:57:21  [INFO] [QuartzScheduler:547] Scheduler quartzScheduler_$_NON_CLUSTERED started. 
+2019-06-28 15:57:21  [INFO] [TestJob:19] job start,time:2019-06-28 15:57:21 
+2019-06-28 15:57:30  [INFO] [TestJob:19] job start,time:2019-06-28 15:57:30 
+2019-06-28 15:57:40  [INFO] [TestJob:19] job start,time:2019-06-28 15:57:40 
+2019-06-28 15:57:50  [INFO] [TestJob:19] job start,time:2019-06-28 15:57:50 
+2019-06-28 15:58:00  [INFO] [TestJob:19] job start,time:2019-06-28 15:58:00 
+2019-06-28 15:58:10  [INFO] [TestJob:19] job start,time:2019-06-28 15:58:10 
+2019-06-28 15:58:20  [INFO] [TestJob:19] job start,time:2019-06-28 15:58:20 
+2019-06-28 15:58:30  [INFO] [TestJob:19] job start,time:2019-06-28 15:58:30 
+2019-06-28 15:58:40  [INFO] [TestJob:19] job start,time:2019-06-28 15:58:40 
+2019-06-28 15:58:50  [INFO] [TestJob:19] job start,time:2019-06-28 15:58:50 
+2019-06-28 15:59:00  [INFO] [TestJob:19] job start,time:2019-06-28 15:59:00 
+2019-06-28 15:59:10  [INFO] [TestJob:19] job start,time:2019-06-28 15:59:10 
+2019-06-28 15:59:20  [INFO] [TestJob:19] job start,time:2019-06-28 15:59:20 
+2019-06-28 15:59:30  [INFO] [TestJob:19] job start,time:2019-06-28 15:59:30 
+2019-06-28 15:59:40  [INFO] [TestJob:19] job start,time:2019-06-28 15:59:40 
+2019-06-28 15:59:50  [INFO] [TestJob:19] job start,time:2019-06-28 15:59:50 
+2019-06-28 16:00:00  [INFO] [TestJob:19] job start,time:2019-06-28 16:00:00 
+2019-06-28 16:00:10  [INFO] [TestJob:19] job start,time:2019-06-28 16:00:10 
+2019-06-28 16:00:20  [INFO] [TestJob:19] job start,time:2019-06-28 16:00:20 
+2019-06-28 16:00:30  [INFO] [TestJob:19] job start,time:2019-06-28 16:00:30 
+2019-06-28 16:00:40  [INFO] [TestJob:19] job start,time:2019-06-28 16:00:40 
+2019-06-28 16:00:50  [INFO] [TestJob:19] job start,time:2019-06-28 16:00:50 
+2019-06-28 16:01:00  [INFO] [TestJob:19] job start,time:2019-06-28 16:01:00 
+2019-06-28 16:01:10  [INFO] [TestJob:19] job start,time:2019-06-28 16:01:10 
+2019-06-28 16:01:20  [INFO] [TestJob:19] job start,time:2019-06-28 16:01:20 
+2019-06-28 16:01:30  [INFO] [TestJob:19] job start,time:2019-06-28 16:01:30 
+2019-06-28 16:01:40  [INFO] [TestJob:19] job start,time:2019-06-28 16:01:40 
